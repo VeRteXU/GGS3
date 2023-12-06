@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4b40194786ae9d743a8b834ec96705ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kiwisText: {instanceID: 0}
+  - pickupSound: {fileID: 8300000, guid: 7468e5334f5fd0d4eb2050eafacb1291, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
